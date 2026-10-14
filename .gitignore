@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.streamlit/
+.env
+*.log
+.DS_Store
+swiggy_cleaned.csv
+swiggy_cleaned.xlsx
+swiggy_report.md

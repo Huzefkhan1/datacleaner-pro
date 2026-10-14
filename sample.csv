@@ -1,0 +1,11 @@
+id,name,age,email,salary,join_date,city
+1,  Raj Kumar ,25,raj@test.com,50000,2020-01-15,Delhi
+2,Priya Singh,30,priya@test.com,,15/02/2021,Mumbai
+3,Amit,,amit@test.com,60000,2021-03-20,Pune
+4,Raj Kumar,25,raj@test.com,50000,2020-01-15,Delhi
+5,Sneha Patel,28,sneha@test.com,55000,2022-05-10,Bangalore
+6,Ravi Verma,35,,70000,2020-11-05,Delhi
+7, Priya Singh ,30,priya@test.com,65000,15/02/2021,Mumbai
+8,Kiran Rao,45,kiran@test.com,80000,2019-08-25,Chennai
+9,Vijay Kumar,-5,vijay@test.com,45000,2023-01-01,Hyderabad
+10,Anita Desai,29,anita@test.com,52000,2021-07-14,Kolkata
