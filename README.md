@@ -1,3 +1,4 @@
+<img width="1412" height="4955" alt="screencapture-clean-my-data-streamlit-app-2026-10-14-18_59_17" src="https://github.com/user-attachments/assets/8728d7d6-b379-4fa1-ad8e-d6b040895ab7" />
 # 🧹 DataCleaner Pro
 
 A Streamlit web app that automatically detects and fixes common data quality issues — upload messy CSV/Excel files and get clean, analysis-ready data in seconds.
